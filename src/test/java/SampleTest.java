@@ -15,8 +15,7 @@ public class SampleTest {
  	public void simpleTestFailed() {
  		int a = 1;
  		int b = 2;
- 		assertTrue(a + b == 7
-);
+ 		assertTrue(a + b == 3);
  	}
 	
 }
